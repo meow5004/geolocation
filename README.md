@@ -1,6 +1,6 @@
 # geolocation
 
-A new Flutter project.
+Testing Flutter project.
 
 ## Getting Started
 
